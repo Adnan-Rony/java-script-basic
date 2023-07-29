@@ -22,17 +22,17 @@ console.log(price1);
 // price2 = price2 - 5;
 // -= means subtraction some value to the existing value
 price2 -=price2-5;
-console.log(price2);
+//console.log(price2);
 
 // multriplication
 price1 *=5;
-console.log(price1);
+//console.log(price1);
 
 // division
 price2/=5;
-console.log(price2);
+//console.log(price2);
 
 // ++ means age=age+1
 var age=10;
 age++;
-console.log(age);
+.//console.log(age);
