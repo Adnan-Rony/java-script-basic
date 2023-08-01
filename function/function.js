@@ -16,8 +16,8 @@ console.log('valo lage nah kissu');
 
 
 
-function next(){
-    console.log('i loveeeee you');
-    console.log('i loveeeee you tooooooooooo');
-}
-next();
+// function next(){
+//     console.log('i loveeeee you');
+//     console.log('i loveeeee you tooooooooooo');
+// }
+// next();
