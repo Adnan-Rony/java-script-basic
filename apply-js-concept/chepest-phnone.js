@@ -14,6 +14,7 @@ function cheapestPhone(pho)
         if(chepest.price>phn.price)
         {
             chepest=phn
+            
         }
     }
     return chepest
