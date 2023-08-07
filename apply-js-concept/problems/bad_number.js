@@ -16,6 +16,6 @@ function FindingBadData(numbers)
     }
     return BadArray.length;
 }
-const arr=[2,-5,-7,-13,14];
+const arr=[2,5,7,13,14];
 const result=FindingBadData(arr);
 console.log(result);
