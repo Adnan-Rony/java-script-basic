@@ -21,4 +21,4 @@ function gemsToDiamond(x,y,z)
     }
 
 }
-console.log(gemsToDiamond(1,1,1));
+console.log(gemsToDiamond(1,1,2));
