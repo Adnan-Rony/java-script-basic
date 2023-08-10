@@ -4,13 +4,19 @@ function matchFinder(string1,string2)
         {
             return 'please provide a string';
         }
-        if(string1.length==string2.length)
-        return true;
+    //     if(string1.length==string2.length)
+    //     return true;
 
-        
-         else
 
-    return false;
+    //      else
+
+    // return false;
+   const first= string1.length;
+   const second =string2.length;
+        for(let i=0;i<string1.length;i++)
+        {
+            
+        }
 
       
 
@@ -18,3 +24,5 @@ function matchFinder(string1,string2)
 }
 const result=matchFinder('John Doe','ohn');
 console.log(result);
+
+

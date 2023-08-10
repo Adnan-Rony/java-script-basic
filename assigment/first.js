@@ -6,12 +6,13 @@ function CubeNumber(number)
     }
    
    
-    const Cube=number * number * number;
+    
+    const Cube=Math.pow(number,3)
    
    
     return Cube;
 }
-const result=CubeNumber(3);
+const result=CubeNumber(4);
 console.log(result);
 
 

@@ -10,14 +10,6 @@ function sortMaker(arr)
     }
 
 
-    // if(arr[0]>0 && arr[1]>0)
-   
-    // {
-            
-    //         [arr[0],arr[1]]=[arr[1],arr[0]]
-            
-    // }
-    // return arr;
 
 
     if(arr[0]>0 && arr[1]>0)
