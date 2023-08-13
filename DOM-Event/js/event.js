@@ -1,9 +1,9 @@
 
-
-
-console.log("adnan");
 // option-1
 //<button onclick="document.body.style.backgroundColor='Yellow'">Make Yellow</button>
+
+
+
 
 
 //option-2:
@@ -13,6 +13,7 @@ function makeRed()
 {
     document.body.style.backgroundColor='red'
 }
+
 
 
 
@@ -29,6 +30,7 @@ function makeblue()
 
 
 
+
 // option-3 another(aktu short)
 //  <button id="make-tomato">make-tomato</button>
 
@@ -38,6 +40,7 @@ makeTomatoButton.onclick=function makeTomato()
 {
     document.body.style.backgroundColor='tomato'
 }
+
 
 
 
@@ -61,6 +64,7 @@ makegreenButton.addEventListener('click', function makegreen()
       document.body.style.backgroundColor='green';
 }
 )
+
 
 
 
