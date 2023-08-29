@@ -15,7 +15,7 @@ const add2=function(a,b)
 
 const add3=(a,b)=>  a+b;
 
-// const none =a=>a*a; //no parameterrr
+// const none =a=>a*a; //no parameter
 
 
 
